@@ -1,0 +1,12 @@
+Vacuole
+Lysosome
+Nucleus
+Centrioles
+Channels
+Cytoplasm
+Cytoskeleton
+Flagellum
+GolgiApparatus
+Chloroplast
+Membrane
+Ribosome
